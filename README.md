@@ -70,9 +70,11 @@
 ## Depth Image Super-Resolution
 
 ##### Interpretable/Explainable/Explicable Unfolding Networks
+  * EC-DSRNet[[PDF]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)[[Code]](https://github.com/mdcnn/EC-DSRNet): Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network (IEEE Transactions on Instrumentation and Measurement 2024), Lijun Zhao, Jialong Zhang, Jinjing Zhang, Huihui Bai, Anhong Wang.
+
   * CDUNet[[PDF]](https://ieeexplore.ieee.org/document/10222325/): A Joint Model-Driven Unfolding Network for Degraded Low-Quality Color-Depth Images Enhancement (IEEE International Conference on Image Processing (ICIP) 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jie Zhao, Anhong Wang.
     
-  * DASU-Net[[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
+  * DASU-Net[[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19)[[Code]](https://github.com/mdcnn/EC-DSRNet): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
     
   * Ex-DSRNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution (IEEE International Conference on Multimedia and Expo (ICME) 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang.
     
