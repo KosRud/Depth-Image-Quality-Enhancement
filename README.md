@@ -15,24 +15,18 @@
    * Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network[[Code]](https://github.com/mdcnn/EC-DSRNet) 
 
    * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]](https://github.com/mdcnn/JGF2022/)
-      
-   * Digital Photography with Flash and No-Flash Image Pairs (Joint Bilateral Filter)[[Paper]](http://vis.berkeley.edu/papers/fnf/fnfSmall.Paper) 
-   
-   * Joint Bilateral Upsampling[[Paper]](http://kops.uni-konstanz.de/bitstream/handle/123456789/5563/Joint_Bilateral_Upsampling.Paper?sequence=1)
-      
-  * A Noise-Aware Filter for Real-Time Depth Upsampling (Noise-aware Filter)[[Paper]](https://www.ixueshu.com/document/72fc6ba0dffd13cf318947a18e7f9386.html) 
-      
-  * Depth Video Enhancement Based on Weighted Mode Filtering (Weight Mode Filter)[[Paper]](http://ieeexplore.ieee.org/document/5963715/) 
-      
-  * Guided Depth Enhancement via Anisotropic Diffusion(Anisotropic Diffusion)[[Paper]](http://link.springer.com/content/Paper/10.1007%2F978-3-319-03731-8_38.Paper) 
-      
-  * An Application of Markov Random Fields to Range Sensing (Markov Random Field)[[Paper]](http://www.docin.com/p-1500754906.html) 
-      
-  * Image and Sparse Laser Fusion for Dense Scene Reconstruction (Markov Random Field)[[Paper]](http://www.springerlink.com/index/lp737451771w1038.Paper) 
-      
-  * Spatial-Depth Super Resolution for Range Images (Layered Bilateral Filter)[[Paper]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4270236) 
 
-  * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
+   * Simultaneous Color-Depth Super-Resolution with Conditional Generative Adversarial Networks[[Project]](https://github.com/mdcnn/CDcGAN)
+
+   * Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing [[Project]](https://github.com/mdcnn/Local-Activity-Driven-Filtering) [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Iterative Range-Domain Weighted Filter for Structural Preserving Image Smoothing and De-Noising [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Two-Stage Filtering of Compressed Depth Images with Markov Random Field [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Candidate Value-Based Boundary Filtering for Compressed Depth Images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+
+   * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
 
   * Color-Guided Depth Recovery from RGB-D Data Using an Adaptive Auto-Regressive Model[[Code]](https://github.com/wliusjtu/Color-guided-Depth-Recovery-from-RGB-D-Data-Using-an-Adaptive-Auto-regressive-Model)
    
@@ -54,16 +48,23 @@
    
    * Patch Based Synthesis For Single Depth Image Super-Resolution[[Project]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/) 
 [[Code]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/depthSuperRes_code.zip)
+      
+   * Digital Photography with Flash and No-Flash Image Pairs (Joint Bilateral Filter)[[Paper]](http://vis.berkeley.edu/papers/fnf/fnfSmall.Paper) 
+   
+   * Joint Bilateral Upsampling[[Paper]](http://kops.uni-konstanz.de/bitstream/handle/123456789/5563/Joint_Bilateral_Upsampling.Paper?sequence=1)
+      
+  * A Noise-Aware Filter for Real-Time Depth Upsampling (Noise-aware Filter)[[Paper]](https://www.ixueshu.com/document/72fc6ba0dffd13cf318947a18e7f9386.html) 
+      
+  * Depth Video Enhancement Based on Weighted Mode Filtering (Weight Mode Filter)[[Paper]](http://ieeexplore.ieee.org/document/5963715/) 
+      
+  * Guided Depth Enhancement via Anisotropic Diffusion(Anisotropic Diffusion)[[Paper]](http://link.springer.com/content/Paper/10.1007%2F978-3-319-03731-8_38.Paper) 
+      
+  * An Application of Markov Random Fields to Range Sensing (Markov Random Field)[[Paper]](http://www.docin.com/p-1500754906.html) 
+      
+  * Image and Sparse Laser Fusion for Dense Scene Reconstruction (Markov Random Field)[[Paper]](http://www.springerlink.com/index/lp737451771w1038.Paper) 
+      
+  * Spatial-Depth Super Resolution for Range Images (Layered Bilateral Filter)[[Paper]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4270236) 
 
-   * Simultaneous Color-Depth Super-Resolution with Conditional Generative Adversarial Networks[[Project]](https://github.com/mdcnn/CDcGAN)
-
-   * Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing [[Project]](https://github.com/mdcnn/Local-Activity-Driven-Filtering) [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
-   
-   * Iterative Range-Domain Weighted Filter for Structural Preserving Image Smoothing and De-Noising [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
-   
-   * Two-Stage Filtering of Compressed Depth Images with Markov Random Field [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
-   
-   * Candidate Value-Based Boundary Filtering for Compressed Depth Images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
 # A List of Depth Quality Enhancement Approaches
    
