@@ -14,6 +14,8 @@
    
    * A Series of Depth Image Enhancement Codes (Thanks to Yifan Zuo(Email:kenny0410@126.com))[[Code]](https://github.com/Yifan-Zuo)
 
+   * Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network[[Code]](https://github.com/mdcnn/EC-DSRNet) 
+
    * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]](https://github.com/mdcnn/JGF2022/)
       
    * Digital Photography with Flash and No-Flash Image Pairs (Joint Bilateral Filter)[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) 
@@ -78,11 +80,11 @@
     
   * Ex-DSRNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution (IEEE International Conference on Multimedia and Expo (ICME) 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang.
     
-  * MMNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Memory-Augmented Deep Unfolding Network for Guided Image Super-Resolution (International Journal of Computer Vision 2023), Man Zhou and Keyu Yan and Jinshan Pan and Wenqi Ren and Qi Xie and Xiangyong Cao.
+  * MMNet[[PDF]](https://ieeexplore.ieee.org/document/10219604)[[Code]](https://github.com/manman1995/pansharpening): Memory-Augmented Deep Unfolding Network for Guided Image Super-Resolution (International Journal of Computer Vision 2023), Man Zhou and Keyu Yan and Jinshan Pan and Wenqi Ren and Qi Xie and Xiangyong Cao.
     
   * LMCSC-ResNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Multimodal Deep Unfolding for Guided Image Super-Resolution (IEEE Transactions on Image Processing 2020), Iman Marivani and Evaggelia Tsiligianni and Bruno Cornelis and Nikos Deligiannis.
 
-  * C-ISTA[[PDF]](https://ieeexplore.ieee.org/document/8682646): Coupled ISTA Network for Multi-modal Image Super-Resolution (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Xin Deng, Pier Luigi Dragotti.
+  * C-ISTA[[PDF]](https://ieeexplore.ieee.org/document/8682646)[[Code]](https://github.com/cindydeng1991/Deep-Coupled-ISTA-Network): Coupled ISTA Network for Multi-modal Image Super-Resolution (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Xin Deng, Pier Luigi Dragotti.
 
 ##### CNN-Based Continuous/Arbitrary-Scale DSR Methods
 
@@ -93,6 +95,16 @@
    * LIGF-DSR: Depth Map Continuous Super-resolution with Local Implicit Guidance Function (Displays 2023), Wang, Yuyang and Yang, Jingyu and Yue, Huanjing.
     
 ##### CNN-Based Fixed-Scale DSR Methods
+
+   * HCGNet[[PDF]](https://ieeexplore.ieee.org/abstract/document/10478547)[[Code]](https://rmcong.github.io/HCGNet_TIM2024): Learning Hierarchical Color Guidance for Depth Map Super-Resolution (IEEE Transactions on Instrumentation and Measurement 2024), Cong, Runmin, Ronghui Sheng, Hao Wu, Yulan Guo, Yunchao Wei, Wangmeng Zuo, Yao Zhao, and Sam Kwong.
+
+   * HERN[[PDF]](https://ieeexplore.ieee.org/abstract/document/10461056): Hierarchical Edge Refinement Network for Guided Depth Map Super-Resolution (IEEE Transactions on Computational Imaging 2024), Zhang, Shuo, Zexu Pan, Yichang Lv, and Youfang Lin.
+
+   * TM-GAN[[PDF]](https://ieeexplore.ieee.org/abstract/document/10509697): TM-GAN: A Transformer-based Multi-modal Generative Adversarial Network for Guided Depth Image Super-resolution (IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2024), Zhu, Jiang, Zhiping Lin, and Bihan Wen.
+
+   * SGNet[[PDF]](https://ieeexplore.ieee.org/abstract/document/10461056): SGNet: Structure guided network via gradient-frequency awareness for depth map super-resolution (In Proceedings of the AAAI Conference on Artificial Intelligence 2024), Wang, Zhengxue, Zhiqiang Yan, and Jian Yang.
+
+   * SPFNet[[PDF]](https://ieeexplore.ieee.org/abstract/document/10461056): Scene Prior Filtering for Depth Map Super-Resolution (arXiv preprint arXiv:2402.13876 2024), Wang, Zhengxue, Zhiqiang Yan, Ming-Hsuan Yang, Jinshan Pan, Jian Yang, Ying Tai, and Guangwei Gao.
 
    * JGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397)[[Code]](https://github.com/mdcnn/JGF2022/): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
 
@@ -181,6 +193,8 @@
    * DPN[[PDF]](https://arxiv.org/abs/1607.08569)[[Code]](https://github.com/griegler/primal-dual-networks): A Deep Primal-Dual Network for Guided Depth Super-Resolution (BMVC 2016), Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof.
    
 ##### Traditional Methods
+
+   * LNM-ELR[[PDF]](https://ieeexplore.ieee.org/abstract/document/10461056): Depth map super-resolution via learned nonlocal model and enhanced local regularization (Signal Processing 2024), Zhang, Yingying, Xiaohai He, Honggang Chen, and Chao Ren.
 
    * CRDA[[PDF]](https://eprints.gla.ac.uk/214086/1/214086.pdf): Coupled Real-Synthetic Domain Adaptation for Real-World Deep Depth Enhancement (IEEE Transactions on Image Processing2020), Gu, Xiao and Guo, Yao and Deligianni, Fani and Yang, Guang-Zhong.
 
