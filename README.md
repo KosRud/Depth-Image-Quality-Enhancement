@@ -319,7 +319,7 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
 
    * CMF[[Paper]](https://ieeexplore.ieee.org/abstract/document/8449970): Cross-View Multi-Lateral Filter for Compressed Multi-View Depth Video (IEEE Transactions on Image Processing 2019), You Yang, Qiong Liu, Xin He, Zhen Liu.
 
-   * LADF[[Free Offical Paper]](https://authors.elsevier.com/c/1Y6T-bZX4vgxi) [[Web]](https://github.com/mdcnn/Local-Activity-Driven-Filtering)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing (Signal Processing 2019), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Bing Zeng, Yao Zhao.
+   * LADF[[Paper]](https://www.sciencedirect.com/science/article/pii/S0165168418303724)[[Web]](https://github.com/mdcnn/Local-Activity-Driven-Filtering)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing (Signal Processing 2019), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Bing Zeng, Yao Zhao.
    
    * TSF[[Paper]](https://www.sciencedirect.com/science/article/pii/S0923596517300255)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Two-Stage Filtering of Compressed Depth Images with Markov Random Field (Signal Processing: Image Communication 2017), Lijun Zhao, Huihui Bai, Anhong Wang, Bing Zeng, Yao Zhao.
 
