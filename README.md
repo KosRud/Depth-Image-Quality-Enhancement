@@ -71,7 +71,7 @@
 ## Depth Image Super-Resolution
 
 ##### Interpretable/Explainable/Explicable Unfolding Networks
-  * EC-DSRNet[[Paper]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)[[Code]](https://github.com/mdcnn/EC-DSRNet): Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network (IEEE Transactions on Instrumentation and Measurement 2024), Lijun Zhao, Jialong Zhang, Jinjing Zhang, Huihui Bai, Anhong Wang.
+  * EC-DSRNet[[Paper]](https://ieeexplore.ieee.org/document/10568220)[[Code]](https://github.com/mdcnn/EC-DSRNet): Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network (IEEE Transactions on Instrumentation and Measurement 2024), Lijun Zhao, Jialong Zhang, Jinjing Zhang, Huihui Bai, Anhong Wang.
 
   * CDUNet[[Paper]](https://ieeexplore.ieee.org/document/10222325/): A Joint Model-Driven Unfolding Network for Degraded Low-Quality Color-Depth Images Enhancement (IEEE International Conference on Image Processing (ICIP) 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jie Zhao, Anhong Wang.
     
