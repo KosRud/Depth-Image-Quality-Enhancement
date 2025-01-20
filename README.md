@@ -99,6 +99,15 @@
 
    * IFM[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325000135)[[Code]](https://github.com/wm-bupt/IFM): Implicit face model: Depth super-resolution for 3D face recognition (Pattern Recognition 2025), Wang, Mei and Xu, Ruizhuo and Deng, Weihong and Huang, Hua.
 
+   * DSRNet[[Paper]](https://www.sciencedirect.com/science/article/pii/S0923596523001467)[[Code]](https://github.com/lanhui-123/DSRNet): DSRNet: Depth Super-Resolution Network guided by blurry depth and clear intensity edges (Signal Processing: Image Communication 2024), Lan, Hui and Jung, Cheolkon.
+
+   * LEDSRNet[[Paper]](Latent Edge Guided Depth Super-Resolution Using Attention-Based Hierarchical Multi-Modal Fusion): Latent Edge Guided Depth Super-Resolution Using Attention-Based Hierarchical Multi-Modal Fusion (IEEE Access 2024), IEEE Access.
+
+   * D2A2[[Paper]](https://arxiv.org/abs/2401.08123)[[Code]](https://github.com/JiangXinni/D2A2): Boosting Guided Depth Super-Resolution Through Large Depth Estimation Model and Alignment-then-Fusion Strategy (arXiv 2024), Jiang, Xinni and Kuang, Zengsheng and Guo, Chunle and Zhang, Ruixun and Cai, Lei and Fan, Xiao and Li, Chongyi.
+
+   * DORNet[[Paper]](https://arxiv.org/abs/2410.11666)[[Code]](https://github.com/yanzq95/DORNet): Degradation Oriented and Regularized Network for
+Real-World Depth Super-Resolution (arXiv 2024), Wang, Zhengxue and Yan, Zhiqiang and Pan, Jinshan and Gao, Guangwei and Zhang, Kai and Yang, Jian.
+
    * MCNet[[Paper]](https://dl.acm.org/doi/abs/10.1145/3677123)[[Code]](https://github.com/amhamster/C2PD): Digging into Depth and Color Spaces: A Mapping Constraint Network for Depth Super-Resolution (ACM Transactions on Multimedia Computing, Communications, and Applications 2024), Kang, Jiahui and Cai, Qing and Tan, Runqing and Liu, Yimei and Liu, Zhi.
 
    * IPPNet[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27883)[[Code]](https://github.com/neuralchen/IPPNet/): Intrinsic Phase-Preserving Networks for Depth Super Resolution (Proceedings of the AAAI Conference on Artificial Intelligence 2024), Intrinsic Phase-Preserving Networks for Depth Super Resolution}, Chen, Xuanhong and Wang, Hang and Chen, Jialiang and Feng, Kairui and Liu, Jinfan and Wang, Xiaohang and Zhang, Weimin and Ni, Bingbing.
