@@ -89,7 +89,7 @@
 
   * DASU-Net[[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19)[[Code]](https://github.com/mdcnn/DASU-Net): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
 
-   *  GeoDSR: Learning Continuous Depth Representation via Geometric Spatial Aggregator (Proceedings of the AAAI Conference on Artificial Intelligence 2023), Wang, Xiaohang and Chen, Xuanhong and Ni, Bingbing and Tong, Zhengyan and Wang, Hang.
+   *  GeoDSR[[Paper]](http://arxiv.org/abs/2212.03499)[[Code]](https://github.com/nana01219/GeoDSR): Learning Continuous Depth Representation via Geometric Spatial Aggregator (Proceedings of the AAAI Conference on Artificial Intelligence 2023), Wang, Xiaohang and Chen, Xuanhong and Ni, Bingbing and Tong, Zhengyan and Wang, Hang.
 
    * LIGF-DSR: Depth Map Continuous Super-resolution with Local Implicit Guidance Function (Displays 2023), Wang, Yuyang and Yang, Jingyu and Yue, Huanjing.
     
@@ -97,9 +97,12 @@
 
    * C2PD[[Paper]](https://arxiv.org/abs/2501.07688)[[Code]](https://github.com/amhamster/C2PD): C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution (arXiv 2025), Kang, Jiahui and Cai, Qing and Tan, Runqing and Liu, Yimei and Liu, Zhi.
 
-     
    * IFM[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325000135)[[Code]](https://github.com/wm-bupt/IFM): Implicit face model: Depth super-resolution for 3D face recognition (Pattern Recognition 2025), Wang, Mei and Xu, Ruizhuo and Deng, Weihong and Huang, Hua.
 
+   * MCNet[[Paper]](https://dl.acm.org/doi/abs/10.1145/3677123)[[Code]](https://github.com/amhamster/C2PD): Digging into Depth and Color Spaces: A Mapping Constraint Network for Depth Super-Resolution (ACM Transactions on Multimedia Computing, Communications, and Applications 2024), Kang, Jiahui and Cai, Qing and Tan, Runqing and Liu, Yimei and Liu, Zhi.
+
+   * IPPNet[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27883)[[Code]](https://github.com/neuralchen/IPPNet/): Intrinsic Phase-Preserving Networks for Depth Super Resolution (Proceedings of the AAAI Conference on Artificial Intelligence 2024), Intrinsic Phase-Preserving Networks for Depth Super Resolution}, Chen, Xuanhong and Wang, Hang and Chen, Jialiang and Feng, Kairui and Liu, Jinfan and Wang, Xiaohang and Zhang, Weimin and Ni, Bingbing.
+     
    * HCGNet[[Paper]](https://ieeexplore.ieee.org/abstract/document/10478547)[[Code]](https://rmcong.github.io/HCGNet_TIM2024): Learning Hierarchical Color Guidance for Depth Map Super-Resolution (IEEE Transactions on Instrumentation and Measurement 2024), Cong, Runmin, Ronghui Sheng, Hao Wu, Yulan Guo, Yunchao Wei, Wangmeng Zuo, Yao Zhao, and Sam Kwong.
 
    * HERN[[Paper]](https://ieeexplore.ieee.org/abstract/document/10461056): Hierarchical Edge Refinement Network for Guided Depth Map Super-Resolution (IEEE Transactions on Computational Imaging 2024), Zhang, Shuo, Zexu Pan, Yichang Lv, and Youfang Lin.
