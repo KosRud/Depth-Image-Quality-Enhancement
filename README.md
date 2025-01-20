@@ -72,12 +72,12 @@
 
 ##### Interpretable/Explainable/Explicable Unfolding Networks
   * EC-DSRNet[[Paper]](https://ieeexplore.ieee.org/document/10568220)[[Code]](https://github.com/mdcnn/EC-DSRNet): Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network (IEEE Transactions on Instrumentation and Measurement 2024), Lijun Zhao, Jialong Zhang, Jinjing Zhang, Huihui Bai, Anhong Wang.
-
-  * CDUNet[[Paper]](https://ieeexplore.ieee.org/document/10222325/): A Joint Model-Driven Unfolding Network for Degraded Low-Quality Color-Depth Images Enhancement (IEEE International Conference on Image Processing (ICIP) 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jie Zhao, Anhong Wang.
     
   * DASU-Net[[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
-    
+
   * Ex-DSRNet[[Paper]](https://ieeexplore.ieee.org/document/10219604)[[Code]](https://github.com/mdcnn/EC-DSRNet): Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution (IEEE International Conference on Multimedia and Expo (ICME) 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang.
+   
+  * CDUNet[[Paper]](https://ieeexplore.ieee.org/document/10222325/): A Joint Model-Driven Unfolding Network for Degraded Low-Quality Color-Depth Images Enhancement (IEEE International Conference on Image Processing (ICIP) 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jie Zhao, Anhong Wang.
     
   * MMNet[[Paper]](https://ieeexplore.ieee.org/document/10219604)[[Code]](https://github.com/manman1995/pansharpening): Memory-Augmented Deep Unfolding Network for Guided Image Super-Resolution (International Journal of Computer Vision 2023), Man Zhou and Keyu Yan and Jinshan Pan and Wenqi Ren and Qi Xie and Xiangyong Cao.
     
@@ -94,6 +94,11 @@
    * LIGF-DSR: Depth Map Continuous Super-resolution with Local Implicit Guidance Function (Displays 2023), Wang, Yuyang and Yang, Jingyu and Yue, Huanjing.
     
 ##### CNN-Based Fixed-Scale DSR Methods
+
+   * C2PD[[Paper]](https://arxiv.org/abs/2501.07688)[[Code]](https://github.com/amhamster/C2PD): C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution (arXiv 2025), Kang, Jiahui and Cai, Qing and Tan, Runqing and Liu, Yimei and Liu, Zhi.
+
+     
+   * IFM[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325000135)[[Code]](https://github.com/wm-bupt/IFM): Implicit face model: Depth super-resolution for 3D face recognition (Pattern Recognition 2025), Wang, Mei and Xu, Ruizhuo and Deng, Weihong and Huang, Hua.
 
    * HCGNet[[Paper]](https://ieeexplore.ieee.org/abstract/document/10478547)[[Code]](https://rmcong.github.io/HCGNet_TIM2024): Learning Hierarchical Color Guidance for Depth Map Super-Resolution (IEEE Transactions on Instrumentation and Measurement 2024), Cong, Runmin, Ronghui Sheng, Hao Wu, Yulan Guo, Yunchao Wei, Wangmeng Zuo, Yao Zhao, and Sam Kwong.
 
