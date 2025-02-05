@@ -1,4 +1,4 @@
-# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating 2025.01)
+# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating 2025.02.05)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
@@ -73,7 +73,7 @@
 ##### Interpretable/Explainable/Explicable Unfolding Networks
   * EC-DSRNet[[Paper]](https://ieeexplore.ieee.org/document/10568220)[[Code]](https://github.com/mdcnn/EC-DSRNet): Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network (IEEE Transactions on Instrumentation and Measurement 2024), Lijun Zhao, Jialong Zhang, Jinjing Zhang, Huihui Bai, Anhong Wang.
     
-  * DASU-Net[[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
+  * DASU-Net[[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19)[[Code]](https://github.com/mdcnn/DASU-Net): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
 
   * Ex-DSRNet[[Paper]](https://ieeexplore.ieee.org/document/10219604)[[Code]](https://github.com/mdcnn/EC-DSRNet): Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution (IEEE International Conference on Multimedia and Expo (ICME) 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang.
    
