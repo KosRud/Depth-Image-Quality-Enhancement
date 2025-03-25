@@ -71,9 +71,11 @@
 ## Depth Image Super-Resolution
 
 ##### Interpretable/Explainable/Explicable Unfolding Networks
+  * DASU-Net-TMM2025[[Paper]](https://ieeexplore.ieee.org/document/)[[Code]](https://github.com/mdcnn/DASU-Net): Joint Deep-Unfolding Optimization Learning for Depth Map Arbitrary-Scale Super-Resolution (IEEE Transactions on Multimedia 2025), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Anhong Wang, Huihui Bai.
+    
   * EC-DSRNet[[Paper]](https://ieeexplore.ieee.org/document/10568220)[[Code]](https://github.com/mdcnn/EC-DSRNet): Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network (IEEE Transactions on Instrumentation and Measurement 2024), Lijun Zhao, Jialong Zhang, Jinjing Zhang, Huihui Bai, Anhong Wang.
     
-  * DASU-Net[[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19)[[Code]](https://github.com/mdcnn/DASU-Net): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
+  * DASU-Net-PRCV2023[[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
 
   * Ex-DSRNet[[Paper]](https://ieeexplore.ieee.org/document/10219604)[[Code]](https://github.com/mdcnn/EC-DSRNet): Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution (IEEE International Conference on Multimedia and Expo (ICME) 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang.
    
@@ -87,7 +89,9 @@
 
 ##### CNN-Based Continuous/Arbitrary-Scale DSR Methods
 
-  * DASU-Net[[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19)[[Code]](https://github.com/mdcnn/DASU-Net): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
+  * DASU-Net-TMM2025[[Paper]](https://ieeexplore.ieee.org/document/)[[Code]](https://github.com/mdcnn/DASU-Net): Joint Deep-Unfolding Optimization Learning for Depth Map Arbitrary-Scale Super-Resolution (IEEE Transactions on Multimedia 2025), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Anhong Wang, Huihui Bai.
+
+  * DASU-Net-PRCV2023[[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_19): Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution (Pattern Recognition and Computer Vision 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Bintao Chen, Anhong Wang.
 
    *  GeoDSR[[Paper]](http://arxiv.org/abs/2212.03499)[[Code]](https://github.com/nana01219/GeoDSR): Learning Continuous Depth Representation via Geometric Spatial Aggregator (Proceedings of the AAAI Conference on Artificial Intelligence 2023), Wang, Xiaohang and Chen, Xuanhong and Ni, Bingbing and Tong, Zhengyan and Wang, Hang.
 
