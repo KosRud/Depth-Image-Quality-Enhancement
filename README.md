@@ -1,4 +1,4 @@
-# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating 2025.02.05)
+# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating 2025.03.31)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
@@ -12,7 +12,9 @@
    
    * A Series of Depth Image Enhancement Codes (Thanks to Yifan Zuo(Email:kenny0410@126.com))[[Code]](https://github.com/Yifan-Zuo)
 
-   * Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network[[Code]](https://github.com/mdcnn/EC-DSRNet) 
+   * Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network[[Code]](https://github.com/mdcnn/DASU-Net)
+
+   * Joint Deep-Unfolding Optimization Learning for Depth Map Arbitrary-Scale Super-Resolution[[Code]](https://github.com/mdcnn/EC-DSRNet) 
 
    * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]](https://github.com/mdcnn/JGF2022/)
 
